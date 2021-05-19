@@ -2,7 +2,10 @@
 
 ### How to activate your certificate
 
-* **cert/**
-  * ***cert.pem***
-  * ***csr.pem***
-  * ***key.pem***
+1. **Add new folder "cert"**
+  * *cert*
+2. **Add certificate files in folder "cert"**
+  * **cert/**
+    * *cert.pem*
+    * *csr.pem*
+    * *key.pem*
